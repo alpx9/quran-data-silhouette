@@ -20,4 +20,4 @@ This project is a unique blend of **Data Visualization** and **Islamic Art**. It
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/alpx9/quran-data-silhouette.git](https://github.com/YOUR_USERNAME/quran-data-silhouette.git)
+   git clone [https://github.com/alpx9/quran-data-silhouette.git](https://github.com/alpx9/quran-data-silhouette.git)
